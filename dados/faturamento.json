@@ -1,0 +1,29 @@
+[
+    {
+        "Dia": "Sábado",
+        "Faturamento": "0"
+    },{
+        "Dia": "Domingo",
+        "Faturamento": "0"
+    },
+    {
+        "Dia": "Segunda-Feira",
+        "Faturamento": "255.2"
+    },
+    {
+        "Dia": "Terça-Feira",
+        "Faturamento": "187.8"
+    },
+    {
+        "Dia": "Quarta-Feira",
+        "Faturamento": "5"
+    },
+    {
+        "Dia": "Quinta-Feira",
+        "Faturamento": "27.6"
+    },
+    {
+        "Dia": "Sexta-Feira",
+        "Faturamento": "300"
+    }
+]
